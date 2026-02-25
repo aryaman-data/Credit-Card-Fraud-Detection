@@ -6,7 +6,7 @@ A machine learning project that detects fraudulent credit card transactions usin
 
 ##  Project Overview
 
-Credit card fraud is a growing financial threat worldwide. This project builds a supervised machine learning pipeline to classify transactions as **genuine (0)** or **fraudulent (1)** using anonymised PCA features from real-world transaction data.
+Credit card fraud is a growing financial threat worldwide. This project builds a supervised machine learning pipeline to classify transactions as **genuine** or **fraudulent** using anonymised PCA features from real-world transaction data.
 
 ---
 
@@ -15,12 +15,12 @@ Credit card fraud is a growing financial threat worldwide. This project builds a
 - **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Total Transactions:** 2,84,807
 - **Features:** 28 PCA components (V1–V28) + Amount + Time
-- **Target:** Class (0 = Genuine, 1 = Fraud)
+- **Target:** Class (Genuine, Fraud)
 
 | Class | Count | Percentage |
 |-------|-------|------------|
-| Genuine (0) | 2,84,315 | 99.8273% |
-| Fraud (1) | 492 | 0.1727% |
+| Genuine | 2,84,315 | 99.8273% |
+| Fraud | 492 | 0.1727% |
 
 ---
 
