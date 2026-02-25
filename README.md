@@ -101,4 +101,4 @@ Random Forest is the preferred model for fraud detection as it correctly identif
 
 **Aryaman Vishnoi**  
 📧 bishnoiarav24@gamil.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/aryamanvishnoi-data/)) | [GitHub](https://github.com/aryaman-data)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryamanvishnoi-data/) | [GitHub](https://github.com/aryaman-data)
